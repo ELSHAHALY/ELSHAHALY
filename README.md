@@ -1,5 +1,5 @@
 <!-- Banner / Intro -->
-<h1 align="center">Hi, I'm Abdallah “Shahaly” Elshahaly 👋</h1>
+<h1 align="center">Hi, I'm Abdallah W. Elshahaly AKA “Shahaly” 👋</h1>
 <h3 align="center">DevOps Enthusiast • Backend Developer • Systems Thinker</h3>
 
 ---
@@ -8,15 +8,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/elshahaly" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" />
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="30px" />
   </a>
-  &nbsp;
-  <a href="https://github.com/ELSHAHALY" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32px" />
+  <a href="https://github.com/ELSHAHALY" target="_blank" style="margin-left: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30px" />
   </a>
-  &nbsp;
-  <a href="mailto:abdallahwael367@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32px" />
+  <a href="mailto:abdallahwael367@gmail.com" target="_blank" style="margin-left: 12px;">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original-wordmark.svg" width="30px" />
   </a>
 </p>
 
