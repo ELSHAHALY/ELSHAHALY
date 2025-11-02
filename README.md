@@ -2,11 +2,30 @@
 <h1 align="center">Hi, I'm Abdallah “Shahaly” Elshahaly 👋</h1>
 <h3 align="center">DevOps Enthusiast • Backend Developer • Systems Thinker</h3>
 
+---
+
+## 🤝 Connect With Me
+
 <p align="center">
-  <a href="https://www.linkedin.com/in/elshahaly/"><img src="https://img.shields.io/badge/LinkedIn-elshahaly-blue?style=flat-square&logo=linkedin"></a>
-  <a href="mailto:abdallahwael367@gmail.com"><img src="https://img.shields.io/badge/Email-abdallahwael367%40gmail.com-red?style=flat-square&logo=gmail"></a>
-  <a href="https://github.com/ELSHAHALY"><img src="https://img.shields.io/badge/GitHub-ELSHAHALY-black?style=flat-square&logo=github"></a>
+  <a href="https://www.linkedin.com/in/elshahaly" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="32px" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/ELSHAHALY" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="32px" />
+  </a>
+  &nbsp;
+  <a href="mailto:abdallahwael367@gmail.com" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="32px" />
+  </a>
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/elshahaly">elshahaly</a> •
+  <a href="https://github.com/ELSHAHALY">ELSHAHALY</a> •
+  <a href="mailto:abdallahwael367@gmail.com">abdallahwael367@gmail.com</a>
+</p>
+
 
 ---
 
